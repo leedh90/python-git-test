@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../1차시험-이동형/.idea/1차시험-이동형.iml" filepath="$PROJECT_DIR$/../1차시험-이동형/.idea/1차시험-이동형.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/data01.iml" filepath="$PROJECT_DIR$/.idea/data01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data03/.idea/data03.iml" filepath="$PROJECT_DIR$/../data03/.idea/data03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data04/.idea/data04.iml" filepath="$PROJECT_DIR$/../data04/.idea/data04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data05/.idea/data05.iml" filepath="$PROJECT_DIR$/../data05/.idea/data05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data0506/.idea/data0506.iml" filepath="$PROJECT_DIR$/../data0506/.idea/data0506.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data07/.idea/data07.iml" filepath="$PROJECT_DIR$/../data07/.idea/data07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data08/.idea/data08.iml" filepath="$PROJECT_DIR$/../data08/.idea/data08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day01/.idea/day01.iml" filepath="$PROJECT_DIR$/../day01/.idea/day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day3/.idea/day3.iml" filepath="$PROJECT_DIR$/../day3/.idea/day3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day5/.idea/day5.iml" filepath="$PROJECT_DIR$/../day5/.idea/day5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day5practice/.idea/day5practice.iml" filepath="$PROJECT_DIR$/../day5practice/.idea/day5practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day6/.idea/day6.iml" filepath="$PROJECT_DIR$/../day6/.idea/day6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test01/.idea/test01.iml" filepath="$PROJECT_DIR$/../test01/.idea/test01.iml" />
+    </modules>
+  </component>
+</project>
